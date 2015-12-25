@@ -1,5 +1,9 @@
 # NEURO-521 Spring 2016 Gilmore
 
+This is the repository for Rick Gilmore's section of NEURO-521 Spring 2016. The repo can be found [here](https://github.com/psu-psychology/neuro-521).
+
+Please find below information about the required and supplemental readings along with some questions that will guide our discussions. PDFs of all readings are on the course [ANGEL site](https://cms.psu.edu/section/default.asp?id=201516SPUP%5F%5F%5FRNEURO521%5F001).
+
 ## 2015-01-12 -- Brain architectures for adaptive behavior
 
 ### Questions
