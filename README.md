@@ -4,6 +4,8 @@ This is the repository for Rick Gilmore's section of NEURO-521 Spring 2016. The 
 
 Please find below information about the required and supplemental readings along with some questions that will guide our discussions. PDFs of all readings are on the course [ANGEL site](https://cms.psu.edu/section/default.asp?id=201516SPUP%5F%5F%5FRNEURO521%5F001).
 
+I have indicated in **boldface** the reading that should be the focus of your review paper.
+
 ## 2015-01-12 -- Brain architectures for adaptive behavior
 
 ### Questions
@@ -14,7 +16,7 @@ Please find below information about the required and supplemental readings along
 
 ### Readings
 
-Swanson, L. W. (2007). Quest for the basic plan of nervous system circuitry. Brain Research Reviews, 55(2), 356–372. http://doi.org/10.1016/j.brainresrev.2006.12.006
+**Swanson, L. W. (2007). Quest for the basic plan of nervous system circuitry. Brain Research Reviews, 55(2), 356–372. http://doi.org/10.1016/j.brainresrev.2006.12.006**
 
 Tinbergen, N. (1963). On aims and methods of ethology. Zeitschrift Für Tierpsychologie, 20, 410–433.
 
@@ -35,7 +37,7 @@ Tinbergen's four questions (n.d.). Retrieved 2015-12-25 from <https://en.wikiped
 
 ### Readings
 
-Hubel, D. H., & Wiesel, T. N. (1959). Receptive fields of single neurones in the cat’s striate cortex. The Journal of Physiology, 148(3), 574–591. <http://doi.org/10.1113/jphysiol.1959.sp006308>
+**Hubel, D. H., & Wiesel, T. N. (1959). Receptive fields of single neurones in the cat’s striate cortex. The Journal of Physiology, 148(3), 574–591. <http://doi.org/10.1113/jphysiol.1959.sp006308>**
 
 Mountcastle, V. B., Davies, P. W., & Berman, A. L. (1957). Response properties of neurons of cat’s somatic sensory cortex to peripheral stimuli. Journal of Neurophysiology, 20, 374–407.
 
@@ -48,9 +50,9 @@ Mountcastle, V. B., Davies, P. W., & Berman, A. L. (1957). Response properties o
 
 ### Readings
 
-Weinberg, R. J. (1997). Are Topographic Maps Fundamental to Sensory Processing? Brain Research Bulletin, 44(2), 113–116. <http://doi.org/10.1016/S0361-9230(97)00095-6>
+**Kaas, J. H. (1997). Topographic Maps are Fundamental to Sensory Processing. Brain Research Bulletin, 44(2), 107–112. <http://doi.org/10.1016/S0361-9230(97)00094-4>**
 
-Kaas, J. H. (1997). Topographic Maps are Fundamental to Sensory Processing. Brain Research Bulletin, 44(2), 107–112. <http://doi.org/10.1016/S0361-9230(97)00094-4>
+Weinberg, R. J. (1997). Are Topographic Maps Fundamental to Sensory Processing? Brain Research Bulletin, 44(2), 113–116. <http://doi.org/10.1016/S0361-9230(97)00095-6>
 
 ### Supplemental
 
@@ -66,7 +68,7 @@ Penfield, W., & Boldrey, E. (1937). Somatic Motor and Sensory Representation in 
 
 ### Readings
 
-DeYoe, E. A., Bandettini, P., Neitz, J., Miller, D., & Winans, P. (1994). Functional magnetic resonance imaging (FMRI) of the human brain. Journal of Neuroscience Methods, 54(2), 171–187. <http://doi.org/10.1016/0165-0270(94)90191-0>
+**DeYoe, E. A., Bandettini, P., Neitz, J., Miller, D., & Winans, P. (1994). Functional magnetic resonance imaging (FMRI) of the human brain. Journal of Neuroscience Methods, 54(2), 171–187. <http://doi.org/10.1016/0165-0270(94)90191-0>**
 
 Rosen, B. R., Buckner, R. L., & Dale, A. M. (1998). Event-related functional MRI: Past, present, and future. Proceedings of the National Academy of Sciences of the United States of America, 95(3), 773–780. <http://www.pnas.org/content/95/3/773.full#content-block>
 
