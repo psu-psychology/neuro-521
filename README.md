@@ -8,15 +8,20 @@ I have indicated in **boldface** the reading that should be the focus of your re
 
 ## 2015-01-12 -- Brain architectures for adaptive behavior
 
+### Lecture notes
+
+- [HTML](https://cdn.rawgit.com/psu-psychology/neuro-521/master/neuro-521-gilmore-2016-01-12.html)
+
 ### Questions
 
 1. What behaviors are essential for animals to perform?
-2. How is the nervous system organized to contribute to these behaviors?
-3. Should molecular neurobiologists think about ethology? Should cognitive neuroscientists think about molecular neurobiology? Why or why not?
+2. What questions should we ask about these behaviors?
+3. How is the nervous system organized to contribute to these behaviors?
+4. Should molecular neurobiologists think about ethology? Should cognitive neuroscientists think about molecular neurobiology? Why or why not?
 
 ### Readings
 
-**Swanson, L. W. (2007). Quest for the basic plan of nervous system circuitry. Brain Research Reviews, 55(2), 356–372. http://doi.org/10.1016/j.brainresrev.2006.12.006**
+**Swanson, L. W. (2007). Quest for the basic plan of nervous system circuitry. Brain Research Reviews, 55(2), 356–372. <http://doi.org/10.1016/j.brainresrev.2006.12.006>**
 
 Tinbergen, N. (1963). On aims and methods of ethology. Zeitschrift Für Tierpsychologie, 20, 410–433.
 
