@@ -11,6 +11,7 @@ I have indicated in **boldface** the reading that should be the focus of your re
 ### Lecture notes
 
 - [HTML](https://cdn.rawgit.com/psu-psychology/neuro-521/master/neuro-521-gilmore-2016-01-12.html)
+- [RMarkdown](https://github.com/psu-psychology/neuro-521/blob/master/neuro-521-gilmore-2016-01-12.Rmd)
 
 ### Questions
 
