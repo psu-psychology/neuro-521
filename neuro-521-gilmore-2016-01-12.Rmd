@@ -137,6 +137,14 @@ Tinbergen's four questions (n.d.). Retrieved 2015-12-25 from <https://en.wikiped
 
 - Why or why not?
 
+## Swanson's recommendations
+
+- Account of all nervous system parts
+- Web-based data models for 3D visualization
+- Atlases linked to histological sections
+- "Rules" for circuit schematics
+- Connection matrices
+
 ## Should molecular neurobiologists think about ethology?
 
 - Why or why not?
