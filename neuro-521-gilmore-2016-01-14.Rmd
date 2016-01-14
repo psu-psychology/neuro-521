@@ -28,10 +28,18 @@ Mountcastle, V. B., Davies, P. W., & Berman, A. L. (1957). Response properties o
 
 ## Key ideas
 
-- Pathway from retina to [striate cortex]
+- Pathway from retina to [striate cortex](https://en.wikipedia.org/wiki/Line_of_Gennari)
     - [Retina](http://www.scholarpedia.org/article/Retina) ->
     - Lateral geniculate nucleus of the [thalamus](http://www.scholarpedia.org/article/Thalamus) ->
     - Striate cortex ([Area V1](http://www.scholarpedia.org/article/Area_V1) in the occipital lobe)
+    
+## Striate cortex
+
+<div class="centered">
+<a href="http://www.smbs.buffalo.edu/acb/neuro/slides/s145.jpg">
+<img src="http://www.smbs.buffalo.edu/acb/neuro/slides/s145.jpg" height=500px>
+</a>
+</div>
     
 ## Key ideas
 
