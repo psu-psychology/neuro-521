@@ -47,6 +47,17 @@ Tinbergen's four questions (n.d.). Retrieved 2015-12-25 from <https://en.wikiped
 
 Mountcastle, V. B., Davies, P. W., & Berman, A. L. (1957). Response properties of neurons of cat’s somatic sensory cortex to peripheral stimuli. Journal of Neurophysiology, 20, 374–407.
 
+### Supplemental
+
+- Mountcastle, V. B. (1957). Modality and Topographic Properties of Single Neurons of Cat’s Somatic Sensory Cortex. Journal of Neurophysiology, 20(4), 408–434.<http://jn.physiology.org/content/20/4/408>
+- Society for Neuroscience [interview with Vernon Mountcastle](https://www.youtube.com/embed/dYssHNjydOg)
+
+### Lecture notes
+
+- [HTML](https://cdn.rawgit.com/psu-psychology/neuro-521/master/neuro-521-gilmore-2016-01-14.html)
+- [RMarkdown](https://github.com/psu-psychology/neuro-521/blob/master/neuro-521-gilmore-2016-01-14.Rmd)
+
+
 ## 2015-01-19 -- Maps in the cortex
 
 ### Questions
