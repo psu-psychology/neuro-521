@@ -51,6 +51,7 @@ Mountcastle, V. B., Davies, P. W., & Berman, A. L. (1957). Response properties o
 
 - Mountcastle, V. B. (1957). Modality and Topographic Properties of Single Neurons of Cat’s Somatic Sensory Cortex. Journal of Neurophysiology, 20(4), 408–434.<http://jn.physiology.org/content/20/4/408>
 - Society for Neuroscience [interview with Vernon Mountcastle](https://www.youtube.com/embed/dYssHNjydOg)
+- Symphony of Science [Ode to the Brain](https://www.youtube.com/watch?v=JB7jSFeVz1U)
 
 ### Lecture notes
 
