@@ -1,0 +1,121 @@
+---
+title: "neuro-521-gilmore-2015-01-19"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+---
+
+## 2015-01-19 -- Maps in the cortex
+
+## Questions
+
+1. What is the evidence for a topographic organization in sensory and motor processing?
+2. Are maps fundamental to sensory processing or merely a byproduct of other factors?
+
+## Readings {.smaller}
+
+**Kaas, J. H. (1997). Topographic Maps are Fundamental to Sensory Processing. Brain Research Bulletin, 44(2), 107–112. <http://doi.org/10.1016/S0361-9230(97)00094-4>**
+
+Weinberg, R. J. (1997). Are Topographic Maps Fundamental to Sensory Processing? Brain Research Bulletin, 44(2), 113–116. <http://doi.org/10.1016/S0361-9230(97)00095-6>
+
+### Supplemental
+
+Penfield, W., & Boldrey, E. (1937). Somatic Motor and Sensory Representation in the Cerebral Cortex of Man as Studied by Electrical Stimulation. Brain, 60(4), 389–443. <http://doi.org/10.1093/brain/60.4.389>
+
+## Maps in the brain
+
+- Retinotopy
+- Somatotopy
+- Tonotopy
+
+## [Retinotopy](http://www.scholarpedia.org/article/Visual_map)
+
+<div class="centered">
+<a href="http://www.scholarpedia.org/article/Visual_map">
+<img src="http://www.scholarpedia.org/w/images/thumb/3/31/Visual_map_Swindale_Holmes_V1_map_1918.jpg/500px-Visual_map_Swindale_Holmes_V1_map_1918.jpg" height=450px>
+</a>
+</div>
+
+## Retinotopy
+
+<div class="centered">
+<img src="http://www.scholarpedia.org/w/images/thumb/0/0d/Visual_map_Swindale_Human_visual_fields_Horton_2006.jpg/500px-Visual_map_Swindale_Human_visual_fields_Horton_2006.jpg" height=450px>
+</div>
+
+## Orientation maps
+
+<div class="centered">
+<a href="http://www.scholarpedia.org/article/File:Visual_map_Swindale_Monkey_ori_domains_Blasdel_1986.jpg">
+<img src="http://www.scholarpedia.org/w/images/thumb/9/95/Visual_map_Swindale_Monkey_ori_domains_Blasdel_1986.jpg/800px-Visual_map_Swindale_Monkey_ori_domains_Blasdel_1986.jpg" height=450px>
+</a>
+</div>
+
+## Ocular dominance columns
+
+<div class="centered">
+<a href="http://www.scholarpedia.org/article/File:Visual_map_Swindale_Monkey_and_Humans_odcs_Adams_2007.jpg">
+<img src="http://www.scholarpedia.org/w/images/3/3a/Visual_map_Swindale_Monkey_and_Humans_odcs_Adams_2007.jpg" height=450px>
+</a>
+</div>
+
+## Retinotopy in human visual cortex
+
+- [[@warnking_fmri_2002]](http://doi.org/10.1006/nimg.2002.1304)
+- Individual differences, size can vary by factor of 3 [[@dougherty_visual_2003]](http://doi.org/10.1167/3.10.1), may influence size perception [[@schwarzkopf_surface_2011]](http://doi.org/10.1038/nn.2706), acuity thresholds [[@duncan_cortical_2003]](http://doi.org/10.1016/S0896-6273(03)00265-4)
+
+## Somatotopy
+
+- Dermatomes
+- S1
+- Cerebellum
+
+## [Dermatomes](https://en.wikipedia.org/wiki/Dermatome_(anatomy))
+
+<div class="centered">
+<a href="https://en.wikipedia.org/wiki/Dermatome_(anatomy)#/media/File:Grant_1962_663.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grant_1962_663.png/1024px-Grant_1962_663.png" height=450px>
+</a>
+
+## Dermatomes and refererred pain
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/1506_Referred_Pain_Chart.jpg/1280px-1506_Referred_Pain_Chart.jpg" height=450px>
+</div>
+
+## [Primary somatosensory cortex (S1)](http://www.scholarpedia.org/article/S1_somatotopic_maps)
+
+<div class="centered">
+<img src="http://www.scholarpedia.org/w/images/thumb/4/4a/SI_Somatotopic_Maps_Main_fig1.png/600px-SI_Somatotopic_Maps_Main_fig1.png" height=450px>
+[[@penfield_somatic_1937]](http://doi.org/10.1093/brain/60.4.389)
+</div>
+
+## Cerebellar somatotopy [[@manni_century_2004]](http://doi.org/10.1038/nrn1347)
+
+<div class="centered">
+<img src="img/manni-nrn1347-f1.jpg" height=450px>
+</div>
+
+## Cerebellar somatotopy [[@manni_century_2004]](http://doi.org/10.1038/nrn1347)
+
+<div class="centered">
+<img src="img/manni-nrn1347-f2.jpg" height=450px>
+</div>
+
+## Cerebellar somatotopy [[@manni_century_2004]](http://doi.org/10.1038/nrn1347)
+
+<div class="centered">
+<img src="img/manni-nrn1347-f3.jpg" height=450px>
+</div>
+
+## Tonotopy
+
+- Early fMRI evidence from humans [[@wessinger_tonotopy_1997]](http://doi.org/10.1002/(SICI)1097-0193(1997)5:1<18::AID-HBM3>3.0.CO;2-Q)
+- Strict tonotopy breaks down under high resolution in rat, [[@castro_changing_2010]](http://doi.org/10.1038/nn0310-271)
+- Broad vs. narrow frequency tuning to natural sounds in human fMRI, [[@moerel_processing_2012]](http://doi.org/10.1523/JNEUROSCI.1388-12.2012)
+
+## References {.smaller}

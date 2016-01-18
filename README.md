@@ -57,7 +57,6 @@ Mountcastle, V. B., Davies, P. W., & Berman, A. L. (1957). Response properties o
 - [HTML](https://cdn.rawgit.com/psu-psychology/neuro-521/master/neuro-521-gilmore-2016-01-14.html)
 - [RMarkdown](https://github.com/psu-psychology/neuro-521/blob/master/neuro-521-gilmore-2016-01-14.Rmd)
 
-
 ## 2015-01-19 -- Maps in the cortex
 
 ### Questions
@@ -74,6 +73,11 @@ Weinberg, R. J. (1997). Are Topographic Maps Fundamental to Sensory Processing? 
 ### Supplemental
 
 Penfield, W., & Boldrey, E. (1937). Somatic Motor and Sensory Representation in the Cerebral Cortex of Man as Studied by Electrical Stimulation. Brain, 60(4), 389–443. <http://doi.org/10.1093/brain/60.4.389>
+
+### Lecture notes
+
+- [HTML](https://cdn.rawgit.com/psu-psychology/neuro-521/master/neuro-521-gilmore-2016-01-19.html)
+- [RMarkdown](https://github.com/psu-psychology/neuro-521/blob/master/neuro-521-gilmore-2016-01-19.Rmd)
 
 ## 2015-01-21 -- Studying human brain function through fMRI
 
