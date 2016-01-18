@@ -118,4 +118,29 @@ Penfield, W., & Boldrey, E. (1937). Somatic Motor and Sensory Representation in 
 - Strict tonotopy breaks down under high resolution in rat, [[@castro_changing_2010]](http://doi.org/10.1038/nn0310-271)
 - Broad vs. narrow frequency tuning to natural sounds in human fMRI, [[@moerel_processing_2012]](http://doi.org/10.1523/JNEUROSCI.1388-12.2012)
 
+## Computational maps in the brain
+
+- Example: computing interaural time differences [[@knudsen1987computational]](http://doi.org/10.1146/annurev.ne.10.030187.000353)
+- Maps in association cortex may have different organization [[@patel_topographic_2014]](http://doi.org/10.1016/j.tics.2014.03.008)
+
+## [[@kaas_topographic_1997]](10.1016/S0361-9230(97)00094-4) points
+
+- Topographic maps of receptor surfaces occupy much of neo- cortex of all mammalian species. This suggests that they are important.
+
+- To the extent that such maps emerge in development as a result of an interaction between relatively few factors, map features may be linked. Thus, all features of maps may not be adaptive or have useful functional consequences.
+
+## [[@kaas_topographic_1997]](10.1016/S0361-9230(97)00094-4) points
+
+- Topographical maps effectively group neurons that most com- monly interact, thus decreasing requirements for long, slow, and metabolically costly connections. Such connections are also reduced by the topographic congruences of adjoining maps, and the grouping of maps that interact the most. 
+
+## [[@kaas_topographic_1997]](10.1016/S0361-9230(97)00094-4) points
+
+- Topographic maps are important components of many current theories of how visual information is processed. The maps seem especially well-suited for the construction of local neural circuits that make center-surround comparisons.
+
+- An isomorphism seems to exist between many aspects of perception and imagery and the topographic features of maps. 
+
+## [[@kaas_topographic_1997]](10.1016/S0361-9230(97)00094-4) points
+
+- While lesions of topographic maps do not always disrupt perception in ways expected from the presumed functional roles of such maps, preserved functions may depend on other representations, or on the repair and recovery of damaged representations.
+
 ## References {.smaller}
