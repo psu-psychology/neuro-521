@@ -143,4 +143,11 @@ Penfield, W., & Boldrey, E. (1937). Somatic Motor and Sensory Representation in 
 
 - While lesions of topographic maps do not always disrupt perception in ways expected from the presumed functional roles of such maps, preserved functions may depend on other representations, or on the repair and recovery of damaged representations.
 
+
+## [[@weinberg_are_1997]](http://doi.org/10.1016/S0361-9230(97)00095-6) worries
+
+- How precise is the map?
+- Where is the homunculus?
+- Phenomenon or epiphenomenon?
+
 ## References {.smaller}
