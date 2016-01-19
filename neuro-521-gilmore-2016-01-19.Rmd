@@ -150,4 +150,9 @@ Penfield, W., & Boldrey, E. (1937). Somatic Motor and Sensory Representation in 
 - Where is the homunculus?
 - Phenomenon or epiphenomenon?
 
+## Other questions
+
+- What is the "map" of internal actions or states [[@swanson_quest_2007]](http://larrywswanson.com/?page_id=1523)?
+- Are "motor" maps really somatotopic? [[@graziano_ethological_????]](http:/doi.org)
+
 ## References {.smaller}
