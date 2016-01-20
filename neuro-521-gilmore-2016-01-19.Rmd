@@ -153,7 +153,7 @@ Penfield, W., & Boldrey, E. (1937). Somatic Motor and Sensory Representation in 
 ## Other questions
 
 - What is the "map" of internal actions or states [[@swanson_quest_2007]](http://larrywswanson.com/?page_id=1523)?
-- Are "motor" maps really somatotopic? [[@graziano_ethological_????]](http:/doi.org)
+- Are "motor" maps really somatotopic? [[@graziano_ethological_2016]](http:/doi.org/10.1016/j.tics.2015.10.008)
 - Animals compute quantities; how do maps/networks [@gallistel_memory_2011]?
 
 ## References {.smaller}
