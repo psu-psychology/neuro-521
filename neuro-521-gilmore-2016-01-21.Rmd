@@ -149,12 +149,19 @@ Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Ri
 - Number of active voxels AND sizes of voxel clusters.
 - Many conventional techniques for controlling cluster-level $p$ values show inflated Type I (false positive) errors, [[@eklund_can_2015]](http://arxiv.org/abs/1511.01863)
 
-## The future...
+## Most neuroscience studies are underpowered
+
+- [[@button_power_2013]](http://doi.org/10.1038/nrn3475)
+- [Reproducible neuroscience](http://reproducibility.stanford.edu)
+
+## Toward open, reproducible neuroscience
 
 - [Neurosynth](http://neurosynth.org/)
 - [OpenfMRI.org](https://openfmri.org)
 - [Brain Imaging Data Structure](http://bids.neuroimaging.io)
-- [Reproducible neuroscience](http://reproducibility.stanford.edu)
+
+## 'Big data' and neuroimaging
+
 - [Human Connectome Project](http://www.humanconnectomeproject.org)
 - [[@poldrack_long-term_2015]](http://doi.org/10.1038/ncomms9885)
 
