@@ -144,6 +144,19 @@ Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Ri
 [@lindquist_wager_2015]
 </div>
 
+## Seven Caveats in Brain Map Inferences [@lindquist_wager_2015]
+
+- Not significant does not mean not important
+- Maps are noisy
+- We cannot infer the size of the effects in significant regions
+- Maps are relative comparisons
+
+## Seven Caveats in Brain Map Inferences [@lindquist_wager_2015]
+
+- Significant does not mean causal
+- Statistically stronger does not mean more important
+- Anatomical localization is imprecise
+
 ## Challenges in controlling for multiple comparisons
 
 - Number of active voxels AND sizes of voxel clusters.
