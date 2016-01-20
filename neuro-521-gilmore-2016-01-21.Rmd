@@ -12,35 +12,39 @@ output:
 
 ## 2015-01-21 -- Studying human brain function through fMRI
 
-### Questions
-
 1. How does fMRI work? What does it measure?
 2. How do "functional" maps of the cerebral cortex derived from fMRI relate to maps derived from other methods?
 3. How are fMRI-based maps actually created?
 
-### Readings {.smaller}
+## Readings {.smaller}
 
 **DeYoe, E. A., Bandettini, P., Neitz, J., Miller, D., & Winans, P. (1994). Functional magnetic resonance imaging (FMRI) of the human brain. Journal of Neuroscience Methods, 54(2), 171–187. <http://doi.org/10.1016/0165-0270(94)90191-0>**
 
 Rosen, B. R., Buckner, R. L., & Dale, A. M. (1998). Event-related functional MRI: Past, present, and future. Proceedings of the National Academy of Sciences of the United States of America, 95(3), 773–780. <http://www.pnas.org/content/95/3/773.full#content-block>
 
-## Supplemental
+## Supplemental {.smaller}
 
 Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Richard, N., … Segebarth, C. (2002). fMRI Retinotopic Mapping—Step by Step. NeuroImage, 17(4), 1665–1683. <http://doi.org/10.1006/nimg.2002.1304>
 
-- [Magnetic Resonance Imaging Explained](https://www.youtube.com/watch?v=MiL0wCZr0Mw)
+[Magnetic Resonance Imaging Explained](https://www.youtube.com/watch?v=MiL0wCZr0Mw)
+
+## Why MRI?
+
+<div class="centered">
+<img src="img/lindquist-wager-fig-3.1.jpg" height=500px>
+</div>
 
 ## Historical background
 
-- Sherrington & Roy: local changes in blood volume in cerebral cortex.
-- Kety & Schmidt: regional regulation of blood flow in brain.
+- [@roy1890regulation], local changes in blood volume in cerebral cortex.
+- [@kety1945determination], regional regulation of blood flow in brain.
 - First fMRI paper [[@ogawa_brain_1990]](http://www.pnas.org/content/87/24/9868).
 - Early fMRI paper by a competing group: [[@kwong_dynamic_1992]](http://doi.org/10.1073/pnas.89.12.5675)
 
 ## Scan components/types
 
 - Structural
-    - MP-RAGE (Magnetization Prepared Rapid Acquisition GRE)
+    - e.g., MP-RAGE (Magnetization Prepared Rapid Acquisition Gradient Echo)
         - High resolution (.5-1 mm^3 voxels)
     - Diffusion Tensor Imaging (DTI)
 - Functional
@@ -51,19 +55,35 @@ Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Ri
 
 - Local changes in blood oxygen
     - Blood volume + O2
-- Oxygenated vs. deoxyenaged hemoglobin (Hb)
+- Oxygenated vs. deoxygenated hemoglobin (Hb)
     - Oxygenated Hb [diamagnetic](https://en.wikipedia.org/wiki/Diamagnetism)
     - De-oxygenated Hb [paramagnetic](https://en.wikipedia.org/wiki/Paramagnetism)
-- [Hemodynamic response function (HRF)](https://en.wikipedia.org/wiki/Haemodynamic_response)
-    - Initial O2 dip
-    - Longer increase to peak, then decline
     
-## Why MRI?
+## [Hemodynamic response function (HRF)](https://en.wikipedia.org/wiki/Haemodynamic_response)
+- Initial O2 dip
+- Longer increase to peak 4-8s, then decline
+
+## HRF illustrated
 
 <div class="centered">
-<img src="img/lindquist-wager-fig-3.1.jpg" height=500px>
+<img src="img/heeger-nrn730-f1.gif" height=400px>
+
+[[@heeger_what_2002]](http://doi.org/10.1038/nrn730)
 </div>
-    
+
+## How do neurons change blood flow?
+
+- What are mechanisms of [neurovascular coupling](http://www.scholarpedia.org/article/Neurovascular_coupling).
+- Precapillary smooth muscle cells contraction [@hill_regional_2015].
+
+<div class="centered">
+<img src="http://www.scholarpedia.org/w/images/thumb/1/12/PasleyCVS.jpg/400px-PasleyCVS.jpg">
+</div>
+
+## BOLD vs. other measures of neuronal activity
+
+- [[@logothetis_neurophysiological_2001]](http://doi.org/10.1038/35084005)
+
 ## Data analysis pathway
 
 <div class="centered">
@@ -74,17 +94,22 @@ Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Ri
 
 ## Data analysis pathway
 
-- Convert raw (k-space) maps using inverse FFT
-- Adjust "timing" of slices
+- Convert raw ($k$-space/2d frequency domain) maps using inverse FFT
+- Adjust "timing" of slices (e.g., 30 "slices" in 2s)
 - Align BOLD images with one another; calculate movement
 - Register individual structural image with BOLD image time series
-- Normalize individual structural image with template atlas
 
 ## Data analysis pathway
 
+- Normalize individual structural image with template atlas
+- Use fitted normalization parameters on BOLD images
 - Smooth BOLD images
+
+## Data analysis pathway
+
 - Statistical modeling using voxel-wise GLM
     - At individual level
+        - Condition vs. baseline/error.
     - At group level
     
 ## Types of maps [@lindquist_wager_2015]
@@ -98,7 +123,7 @@ Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Ri
 ## Single-subject vs. Group maps
 
 <div class="centered">
-<img src="img/lindquist-wager-4.2.jpg" height=500px>
+<img src="img/lindquist-wager-fig-4.2.jpg" height=500px>
 
 [@lindquist_wager_2015]
 </div>
@@ -106,7 +131,7 @@ Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Ri
 ## Underlying assumptions
 
 <div class="centered">
-<img src="img/lindquist-wager-4.4.jpg" height=500px>
+<img src="img/lindquist-wager-fig-4.4.jpg" height=500px>
 
 [@lindquist_wager_2015]
 </div>
@@ -114,10 +139,15 @@ Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Ri
 ## Be careful out there
 
 <div class="centered">
-<img src="img/lindquist-wager-4.7.jpg" height=500px>
+<img src="img/lindquist-wager-fig-4.7.jpg" height=500px>
 
 [@lindquist_wager_2015]
 </div>
+
+## Challenges in controlling for multiple comparisons
+
+- Number of active voxels AND sizes of voxel clusters.
+- Many conventional techniques for controlling cluster-level $p$ values show inflated Type I (false positive) errors, [[@eklund_can_2015]](http://arxiv.org/abs/1511.01863)
 
 ## The future...
 
@@ -127,5 +157,13 @@ Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Ri
 - [Reproducible neuroscience](http://reproducibility.stanford.edu)
 - [Human Connectome Project](http://www.humanconnectomeproject.org)
 - [[@poldrack_long-term_2015]](http://doi.org/10.1038/ncomms9885)
+
+## Multivoxel Pattern Analysis (MVPA)
+
+<div class="centered">
+<img src="img/mur-F1.large.jpg" width=700px>
+
+[[@mur_revealing_2009]](http://doi.org/10.1093/scan/nsn044)
+</div>
 
 ## References {.smaller}
