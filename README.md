@@ -99,3 +99,8 @@ Rosen, B. R., Buckner, R. L., & Dale, A. M. (1998). Event-related functional MRI
 Warnking, J., Dojat, M., Guérin-Dugué, A., Delon-Martin, C., Olympieff, S., Richard, N., … Segebarth, C. (2002). fMRI Retinotopic Mapping—Step by Step. NeuroImage, 17(4), 1665–1683. <http://doi.org/10.1006/nimg.2002.1304>
 
 - [Magnetic Resonance Imaging Explained](https://www.youtube.com/watch?v=MiL0wCZr0Mw)
+
+### Lecture notes
+
+- [HTML](https://cdn.rawgit.com/psu-psychology/neuro-521/master/neuro-521-gilmore-2016-01-21.html)
+- [RMarkdown](https://github.com/psu-psychology/neuro-521/blob/master/neuro-521-gilmore-2016-01-21.Rmd)
