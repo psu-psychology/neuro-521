@@ -10,7 +10,7 @@ output:
     widescreen: true
 ---
 
-## 2015-01-21 -- Studying human brain function through fMRI
+## 2016-01-21 -- Studying human brain function through fMRI
 
 1. How does fMRI work? What does it measure?
 2. How do "functional" maps of the cerebral cortex derived from fMRI relate to maps derived from other methods?

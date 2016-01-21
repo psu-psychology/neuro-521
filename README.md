@@ -6,7 +6,7 @@ Please find below information about the required and supplemental readings along
 
 I have indicated in **boldface** the reading that should be the focus of your review paper.
 
-## 2015-01-12 -- Brain architectures for adaptive behavior
+## 2016-01-12 -- Brain architectures for adaptive behavior
 
 ### Lecture notes
 
@@ -33,7 +33,7 @@ Swanson, L. W. (n.d.) Brain Architecture. Retrieved 2015-12-25 from
 
 Tinbergen's four questions (n.d.). Retrieved 2015-12-25 from <https://en.wikipedia.org/wiki/Tinbergen%27s_four_questions>
 
-## 2015-01-14 -- Divide and conquer: Functional segregation in sensory processing
+## 2016-01-14 -- Divide and conquer: Functional segregation in sensory processing
 
 ### Questions
 
@@ -58,7 +58,7 @@ Mountcastle, V. B., Davies, P. W., & Berman, A. L. (1957). Response properties o
 - [HTML](https://cdn.rawgit.com/psu-psychology/neuro-521/master/neuro-521-gilmore-2016-01-14.html)
 - [RMarkdown](https://github.com/psu-psychology/neuro-521/blob/master/neuro-521-gilmore-2016-01-14.Rmd)
 
-## 2015-01-19 -- Maps in the cortex
+## 2016-01-19 -- Maps in the cortex
 
 ### Questions
 
@@ -80,7 +80,7 @@ Penfield, W., & Boldrey, E. (1937). Somatic Motor and Sensory Representation in 
 - [HTML](https://cdn.rawgit.com/psu-psychology/neuro-521/master/neuro-521-gilmore-2016-01-19.html)
 - [RMarkdown](https://github.com/psu-psychology/neuro-521/blob/master/neuro-521-gilmore-2016-01-19.Rmd)
 
-## 2015-01-21 -- Studying human brain function through fMRI
+## 2016-01-21 -- Studying human brain function through fMRI
 
 ### Questions
 
